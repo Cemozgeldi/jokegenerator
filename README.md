@@ -1,3 +1,3 @@
 # jokegenerator
 
-Creating by Joke API
+Creating with Joke API
